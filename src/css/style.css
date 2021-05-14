@@ -1,0 +1,161 @@
+body{
+    font-family: Gill-Sans, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #DDA0DD;
+}
+.logo{
+    color: black; 
+    font-size: 28px;
+    line-height: 60px;
+    margin-left: 250px;
+    float: left;
+}
+.menu{
+    float: left;
+    padding-left: 230px;
+}
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: black;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.main{
+    height: 700px;
+    width: 100%;
+height: calc(100%-60px);
+    background: url(../img/sticker-1-65.png) 95% 100%/auto 85% no-repeat  , url(../img/bg.png)  repeat-x;
+    background-size: 700px; 
+    background-attachment: fixed;
+}
+.title_container{
+    float:left;
+    margin: 240px 0px 0px 250px;
+    color: #8B008B;
+    text-align: center;
+}
+.title_container h1{
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+.title_container h3{
+    margin: 40px;
+    font-size: 25px;
+    color: #BA55D3;
+}
+.title_container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #8B008B;
+    background: none;
+    border-radius: 7px;
+    color: #8B008B;
+    font-size: 15px;
+    padding: 0px 16px;
+    margin: 50px 14px 0px 14px;
+}
+.second_block h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 5% 40%;
+    color: #8B008B;
+    text-decoration-line: underline;
+    background: url(../img/sticker-1-65.png)100% 100%/auto 90% no-repeat;}
+    .second_block p {
+        font-size:30px;
+        color: #8B008B;
+        text-align: center;
+    }
+.second_block input{
+    margin: 200px 650px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #8B008B;
+    background: none;
+    border-radius: 7px;
+    color: #8B008B;
+    font-size: 20px;
+    padding: 0px 16px;
+    text-align: left;
+}
+.list h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 5% 40%;
+    color: #8B008B;
+    text-decoration-line: underline;
+     background: url(../img/bg.png)  repeat-x;
+    background-size: 700px; 
+    background-attachment: fixed;
+}
+.list  li{
+    float: left;
+     padding-left: 100px;
+    line-height: 20px;
+    color: black;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #DDA0DD; 
+}
+.keice h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 5% 45%;
+    color: #8B008B;
+}
+.keice p{
+    font-size:30px;
+        color: #8B008B;
+        text-align: center;
+    
+}
+
+.pay h1{
+   font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 5% 30%;
+    color: #8B008B; 
+}
+.stat h1{ 
+       font-size: 45px;
+    font-weight: bold;    
+text-transform:uppercase;
+    margin: 5% 30%;
+    color: #8B008B; 
+}
+.list3 li{
+    float: left;
+     padding-left: 50px;
+    line-height: 20px;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #9400D3; 
+   padding: 15px;
+    line-height:inherit;}
+.oziv h1{
+     font-size: 45px;
+    font-weight: bold;    
+text-transform:uppercase;
+    margin: 5% 45%;
+    color: #8B008B; 
+}
+.oziv p{
+    font-size:20px;
+        color:#9400D3 ;
+        text-align: justify;
+}
+.list4{
+  text-align: center;
+    margin: 30px 0px;
+    font-size: 20px;
+}
